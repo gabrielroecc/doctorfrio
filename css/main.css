@@ -673,7 +673,7 @@ footer .col {
 	width: 1.75rem;
 }
 .mob {
-	display: none;
+	display: none !important;
 }
 .slide-track {
 	gap: 80px;

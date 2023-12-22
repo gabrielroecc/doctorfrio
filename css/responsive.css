@@ -51,6 +51,12 @@
 		gap: 2.5rem;
 		flex-direction: column;
 	}
+	.mob {
+		display: block;
+	}
+	.desk {
+		display: none;
+	}
 }
 @media (max-width: 67.5rem) {
 	.service_list {
